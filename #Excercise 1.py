@@ -5,7 +5,7 @@ print ("Hola", name)
 #Excercise 2
 name = input("Nombre?: ")
 age = int(input("Edad?: "))
-print("Hello", name, age)
+print("Hola", name, age)
 
 #Excercise 3
 num_hours = int(input("How many hours did you work?: "))
